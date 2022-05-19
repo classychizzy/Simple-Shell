@@ -1,12 +1,24 @@
 #include <stdio.h>
+#include<unistd.h>
+
 /**
-* main- entry point
-* @argc: number command line arguments
-* @argv: storage for the string of arguments
-* Return: 0
-*/
-int main(int argc __attribute__((unused)), char *argv[])
+ * print_letters- a function that prints alphabets
+ * @ch: character entered
+ * Description:program that prints alphabets in lower case followed by /n
+ */
+void print_letters(int ch)
 {
-	printf("%s\n", argv[0]);
-	return (0);
+	ch = a;
+
+	for (ch <= 'z' ; ch++)
+	{
+		if (ch != 'e' && ch != 'q')
+		{
+			putchar(ch);
+		}
+		else
+		{
+		}
+	}
+	putchar('\n');
 }
