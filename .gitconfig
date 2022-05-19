@@ -1,0 +1,8 @@
+[user]
+	email = chizobachukwuoma@gmail.com
+	name = classychizzy
+	password = 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
+[credential]
+	helper = store
+[push]
+	default = simple
