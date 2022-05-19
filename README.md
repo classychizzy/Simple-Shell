@@ -17,6 +17,8 @@ The shell works by;
 * it supports file input
 * support exit features and status
 
+# TABLE OF CONTENTS
+
 ## _AUTHORS_
 * Chukwuoma Chizoba
 * Emmanuel Amba
