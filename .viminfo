@@ -41,18 +41,21 @@ $
 	#
 
 # File marks:
-'0  8  7  ~/0-betty_would_be_proud.c
-'1  12  0  ~/0-betty_would_be_proud.c
-'2  1  0  ~/0-betty_would_be_proud.c
-'3  1  0  ~/shell-practice/arguments.c
-'4  21  25  ~/0-betty_would_be_proud.c
-'5  1  0  ~/Betty-would-be-proud.c
-'6  10  20  ~/shell.h
-'7  1  17  ~/1-shell.c
-'8  15  5  ~/shell.h
-'9  41  3  ~/1-shell.c
+'0  3  46  ~/Authors
+'1  4  0  ~/Authors
+'2  8  7  ~/0-betty_would_be_proud.c
+'3  12  0  ~/0-betty_would_be_proud.c
+'4  1  0  ~/0-betty_would_be_proud.c
+'5  1  0  ~/shell-practice/arguments.c
+'6  21  25  ~/0-betty_would_be_proud.c
+'7  1  0  ~/Betty-would-be-proud.c
+'8  10  20  ~/shell.h
+'9  1  17  ~/1-shell.c
 
 # Jumplist (newest first):
+-'  3  46  ~/Authors
+-'  1  0  ~/Authors
+-'  4  0  ~/Authors
 -'  8  7  ~/0-betty_would_be_proud.c
 -'  1  0  ~/0-betty_would_be_proud.c
 -'  12  0  ~/0-betty_would_be_proud.c
@@ -147,12 +150,17 @@ $
 -'  1  0  ~/shell-practice/string_token.c
 -'  34  0  ~/shell-practice/string_token.c
 -'  62  0  ~/shell-practice/simple_shell.c
--'  9  0  ~/shell-practice/simple_shell.c
--'  56  65  ~/shell-practice/simple_shell.c
--'  36  0  ~/shell-practice/string_token.c
--'  1  0  ~/shell-practice/get_line
 
 # History of marks within files (newest to oldest):
+
+> ~/Authors
+	"	3	46
+	^	3	47
+	.	4	36
+	+	3	31
+	+	4	14
+	+	3	35
+	+	4	36
 
 > ~/0-betty_would_be_proud.c
 	"	8	7

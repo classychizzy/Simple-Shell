@@ -1066,3 +1066,432 @@ ls
 vi simple_shell.c
 man execute
 exit
+clear
+man dir
+man man 3 readdir
+man 3 readdir
+ls
+cd shell-practice
+ls
+vi path_file.c
+./Path_file
+vi Path_file.c
+clear
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+vi Path_file.c
+clear
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+vi Path_file.c
+clear
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+vi Path_file.c
+clear
+vi get_line.c
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+clear
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+vi get_line.c
+clear
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+vi Path_file.c
+clear
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+clear
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+clear
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+./path_file
+clear
+vi Path_file.c
+ls
+vi simple_shell.c
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+./path_file
+vi Path_file.c
+gcc -Wall -Wextra -Werror -pedantic Path_file.c -o path_file
+./path_file
+vi Path_file.c
+clear
+ls -la
+vi check.sh
+rm -r .check.sh.swp
+rm -r .check.sh.c.swp
+clear
+vi check.sh
+ls -la
+clear
+man environ
+printenv
+clear
+vi new_main.c
+gcc -Wall -Wextra -Werror -pedantic new_main.c -o new_main
+vi new_main.c
+vi arguments.c
+vi new_main.c
+gcc -Wall -Wextra -Werror -pedantic new_main.c -o new_main
+vi arguments.c
+vi new_main.c
+clear
+gcc -Wall -Wextra -Werror -pedantic new_main.c -o new_main
+./new_main
+clear
+cd ..
+git branch
+ls
+rm -r simple-shell
+git add .
+clear
+ls
+mkdir simple-shell
+cd simple-shell
+git branch
+git pull
+ls
+git branch develop
+clear
+git checkout develop
+git reset head
+git reset
+clear
+ls
+vi README.md
+git add README.md
+git commit -m"description"
+git push
+git config --global push.default simple
+clear
+git push
+git push --set-upstream origin develop
+clear
+vi README.md
+git add README.md
+git commit -m "project description and features"
+git push
+git checkout main
+git merge develop
+clear
+git merge branch -D develop
+git merge branch -d develop
+git branch
+clear
+cd ..
+git branch
+git merge develop
+git checkout develop
+cd simple-shell
+git checkout develop
+clear
+git status
+clear
+ls
+mv README.md ./home/vagrant
+cd ..
+pwd
+cd simple-shell
+mv README.md /home/vagrant
+cd ..
+clear
+git branch
+git branch develop
+git checkout develop
+ls
+cd simple-shell
+ls
+cd ..
+rm -r simple-shell
+git add .
+git reset 
+clear
+ls
+git add README.md
+git commit -m" added project details"
+git push
+git branch
+git checkout develop
+clear
+git branch -d develop
+git checkout main
+git branch -d develop
+git reset
+git branch
+git fetch head
+git fetch origin
+clear
+git branch
+vi README.md
+git add README.md
+git commit -m" fixed display"
+git push
+vi authors
+clear
+ls
+mv authors Authors
+ls
+git add Authors
+git commit -m "added authors file"
+git push
+clear
+git branch develop
+git checkout main
+git branch
+vi Betty_would_be_proud.c
+cd shell-practice
+ls
+cd ..
+clear
+ls
+cp /shell-practice/arguments.c Betty_would_be_proud.c
+cp ./shell-practice/arguments.c Betty_would_be_proud.c
+ls
+Betty_would_be_proud.c
+vi Betty_would_be_proud.c
+betty Betty_would_be_proud.c
+clear
+vi Betty_would_be_proud.c
+betty Betty_would_be_proud.c
+git add Betty_would_be_proud.c
+git commit -m"a code that passes Betty checks"
+git push
+clear
+cd shell-practice
+ls
+./simple-shell
+./simple_shell
+clear
+echo "/bin/ls" | ./simple_shell
+clear
+ls
+echo "/bin/ls" | ./simple_shell
+clear
+ls
+vi new_main.c
+vi path_file.c
+vi Path_file.c
+vi path_file.c
+vi Path_file.c
+clear
+echo "/bin/ls" | ./path_file
+clear
+cat simple_shell
+clear
+cat path_file
+clear
+cat test_ls_2
+vi path_file.c
+vi Path_file.c
+git branch
+git checkout develop
+ls
+cd ..
+ls
+git checkout main
+clear
+git branch -d develop
+git fetch origin
+git pull origin
+clear
+ls
+betty 1-shell.c
+clear
+vi 1-shell.c
+betty 1-shell.c
+clear
+cd shell-practice
+vi simple_shell.c
+betty 1-shell.c
+cd ..
+vi 1-shell.c
+clear
+betty 1-shell.c
+vi 1-shell.c
+clear
+cd ..
+ls
+cd vagrant
+ls
+cd shell-practice
+vi simple_shell.c
+./simple_shell
+clear
+cd ..
+ls
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+vi simple_shell.c
+vi 1-shell.c
+clear
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+clear
+vi shell-practice
+cd shell-practice
+vi simple_shell
+vi simple_shell.c
+cd ..
+vi 1-shell.c
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+vi 1-shell.c
+clear
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+./shell
+clear
+betty 1-shell.c
+clear
+vi 1-shell.c
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+betty 1-shell.c
+clear
+cd shell-practice
+vi simple_shell.c
+betty simple_shell.c
+clear
+cd ..
+vi 1-shell.c
+betty simple_shell.c
+betty 1-shell.c
+clear
+pwd
+ls
+vi + :wq + ff=unix /home/vagrant/1-shell.c
+vi + :wq + ff=unix
+betty 1-shell.c
+clear
+vi + :w ++ ff=unix +':q' "$1-shell.c"
+betty 1-shell.c
+clear
+vi + :w ++ ff=unix +':q' "$/home/vagrant/1-shell.c"
+clear
+betty README.md
+vi 1-shell.c
+mv 1-shell.c shell.c
+vi shell.c
+vi + ':w ++ ff=unix' + ':q' "shell.c"
+betty shell.c
+clear
+vi + ':wq + +ff=unix' /home/vagrant/shell.c
+vi shell.c
+betty shell.c
+clear
+cd shell-practice
+cd ..
+clear
+betty shell.c
+mv shell.c 1-shell.c
+clear
+vi 1-shell.c
+betty shell.c
+betty 1-shell.c
+vi 1-shell.c
+clear
+betty 1-shell.c
+vi 1-shell.c
+betty 1-shell.c
+clear
+cd ..
+cd vagrant/shell-practice
+vi simple_shell.c
+cd ..
+vi 1-shell.c
+betty 1-shell.c
+vi 1-shell.c
+clear
+vi 1-shell.c
+betty 1-shell.c
+vi 1-shell.c
+betty 1-shell.c
+git add 1-shell.c
+git commit -m"updated file"
+git push
+clear
+git pull
+git reset
+git fetch
+git pull
+clear
+ls
+rm -r :w ++ ff=unix
+rm -r :wq
+rm -r :w ++ ff=unix
+rm -r :w + + ff=unix
+clear
+git branch
+git add 1-shell.c
+git commit -m" made updates"
+clear
+git push
+clear
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+vi shell.h
+vi 1-shell.c
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+vi shell.h
+gcc -Wall -Wextra -Werror -pedantic 1-shell.c -o shell
+clear
+./shell
+clear
+vi
+git add shell.h
+git commit -m"added custom header"
+git push
+clear
+ls
+mv Betty_would_be_proud Betty-would-be-proud
+mv Betty_would_be_proud.c Betty-would-be-proud.c
+betty Betty-would-be-proud.c
+vi Betty-would-be-proud.c
+mv Betty-would-be-proud.c 0-betty_would_be_proud.c
+git add 0-betty_would_be_proud.c
+git commit -m"slight modifications to the naming"
+git push
+clear
+vi Betty-would-be-proud.c
+ls
+vi 0-betty_would_be_proud.c
+rm -r 0-betty_would_be_proud.c
+clear
+cat > 0-betty_would_be_proud.c
+clear
+vi 0-betty_would_be_proud.c
+cd shell-practice
+vi arguments.c
+cd ..
+cp /shell-practice/arguments.c 0-betty_would_be_proud.c
+cp ./shell-practice/arguments.c 0-betty_would_be_proud.c
+vi 0-betty_would_be_proud.c
+beety 0_betty_would_be_proud.c
+betty 0_betty_would_be_proud.c
+clear
+ls
+betty 0-betty_would_be_proud.c
+vi 0-betty_would_be_proud.c
+betty 0-betty_would_be_proud.c
+clear
+vi 0-betty_would_be_proud.c
+betty 0-betty_would_be_proud.c
+git add .
+clear
+git add 0-betty_would_be_proud.c
+git commit -m"passed betty checks"
+clear
+git reset
+pwd
+ls
+git add 0-betty_would_be_proud.c
+git commit -m"passed betty checks"
+git push
+clear
+git fetch
+git pull
+ls
+chmod u+x 0-betty_would_be_proud.c
+ls
+git fetch
+git pull
+ls
+exit
