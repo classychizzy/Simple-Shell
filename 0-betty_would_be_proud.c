@@ -1,24 +1,12 @@
 #include <stdio.h>
-#include<unistd.h>
-
 /**
- * print_letters- a function that prints alphabets
- * @ch: character entered
- * Description:program that prints alphabets in lower case followed by /n
+ * main -Entry point
+ *
+ * Return: Always 0 (success)
+ *
  */
-void print_letters(int ch)
+int main(void)
 {
-	ch = a;
-
-	for (ch <= 'z' ; ch++)
-	{
-		if (ch != 'e' && ch != 'q')
-		{
-			putchar(ch);
-		}
-		else
-		{
-		}
-	}
-	putchar('\n');
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
