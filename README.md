@@ -1,6 +1,6 @@
 # simple_shell
 
-Alx-simple shell is a shell that provides a command line interface between the user and the operating system. it takes human readable commands from the user and executes and runs the commands to give the program's output in a shell script.This shell was built as a project for the Alx-Holberton program. it works just as a basic shell.
+simple_shell is a shell that provides a command line interface between the user and the operating system. it takes human readable commands from the user and executes and runs the commands to give the program's output in a shell script.This shell was built as a project for the Alx-Holberton program. it works just as a basic shell.
 The shell works by being compiled using gcc -Wall -Werror -Wextra -pedantic -std=gnu89.
 ## *Example of how to run the shell*
 ```bash
